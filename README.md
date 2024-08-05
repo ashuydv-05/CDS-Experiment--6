@@ -175,7 +175,7 @@ int main()
 }
 ```
 ## Output:
-![exp](
+![exp](https://github.com/ashuydv-05/CDS-Experiment--6/blob/main/6a.png)
 ![exp](
 ![exp](
 ![exp](
